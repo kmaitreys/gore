@@ -7,7 +7,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/alexchao26/advent-of-code-go/cast"
+	"cast"
+
 	"github.com/alexchao26/advent-of-code-go/mathy"
 	"github.com/alexchao26/advent-of-code-go/util"
 )
